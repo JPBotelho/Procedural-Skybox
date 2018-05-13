@@ -17,3 +17,6 @@ to lerp faster or slower (yielding a nice horizon line).
 ## Simple two color skybox with a white cube
 
 ![Skybox](Renders/Skybox.png "Skybox")
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
